@@ -1,0 +1,46 @@
+A:
+Artificial Intelligence: The simulation of human intelligence in machines, enabling them to learn, reason, and make decisions.
+B:
+Binary Tree: A hierarchical data structure where each node has at most two children, usually called the left and right child.
+Binary Search Tree: A binary tree but with the left child being less than the root node and the right child being greater than the root node at all times.
+C:
+Class: A blueprint for creating real world objects 
+Constructor: A special method used to initialize objects after being instantiated.
+D:
+Data Structure: A collection of data pieces that offers an effective means of storing and organizing data in a computer.
+E:
+Else: Defines an alternate block of code to an if statement
+Enum: Declares an enumeration, a special data type for a fixed set of constants. 
+F:
+For Loop: A controlled structure that repeatedly executes a block of code for a fixed number of times until the condition number is met.
+G:
+Garbage Collector: An automatic memory management system that reclaims memory that is being occupied by objects that are not in use.
+Global Variable: A variable that is able to be used amongst the entire class.
+H:
+HashMap: A data structure that stores key-value pairs using a hashing mechanism. 
+Heap: A memory area where Java objects are stored at runtime.
+I:
+Instance Variable: A variable that belongs to an object
+If statement: A block of code that is a conditional statement which executes if the specified if condition is met.
+J:
+Java: A high level, object-oriented program.
+K:
+Key: Key used to retrieve a value from a data structure.
+L:
+Linked List: Linear data structure in which elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image.
+M:
+Method: A method is a block of code that preforms a specific task and can be called to be executed when needed.
+N:
+Null: Is a special pre-defined key word that references that a object or variable has no value.
+O:
+Object: Is an instance of a class that is defined through a variable that holds the data and functions of the class, and is used to represent real world items.
+P:
+Public: An access modifier that makes a class, method or variable accessable anywhere and for anyone.
+Q:
+Queue: A queue is a linear data structure that runs on a FIFO (First in first out) basis.
+R:
+Return statement: A return statement is a keyword that returns the specified type if given, and stops everthing after it in a method or block of code.
+S:
+Stacks: A stack is a linear data structure that runs on a LIFO (Last in first out) basis.
+T:
+This: The this keyword is a reference variable that refers to the current object or instance variable.
